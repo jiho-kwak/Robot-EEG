@@ -25,3 +25,6 @@ Let participant's name as ABC, experiment's date as YYMMDD, desired starting tim
 
 ## Data
 The collected data are Server\Data\곽지호\연구\2021 IROS\Data
+
+## Environments
+Conda environments are in envs directory.
